@@ -1,0 +1,3 @@
+Plataforma de comercio electrónico: Plataforma de comercio electrónico que permite a los usuarios comprar y vender productos en línea. 
+La plataforma tendrá una interfaz de usuario intuitiva y fácil de usar, así como funciones de búsqueda y filtrado para ayudar a los usuarios a encontrar los productos que desean. 
+Sé utilizará React JS para la interfaz de usuario, Node JS y Express JS para el backend, y MongoDB para almacenar los datos.
